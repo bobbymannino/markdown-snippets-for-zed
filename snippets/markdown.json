@@ -1,0 +1,17 @@
+{
+  "Markdown hyperlink": {
+    "prefix": "link",
+    "description": "A hyperlink",
+    "body": ["[${1:text}](${2:url})"]
+  },
+  "Markdown image": {
+    "prefix": "img",
+    "description": "An image",
+    "body": ["![${1:alt}](${2:src})"]
+  },
+  "Markdown code block": {
+    "prefix": "code",
+    "description": "A code block",
+    "body": ["```${1:language}", "${2:code}", "```"]
+  }
+}
