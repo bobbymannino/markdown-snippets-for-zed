@@ -19,6 +19,12 @@ page](https://zed.dev/extensions/markdown-snippets) or by following these steps:
 
 ### Markdown
 
+- `gh-info`: A GitHub flavored note alert
+- `gh-tip`: A GitHub flavored tip alert
+- `gh-important`: A GitHub flavored important alert
+- `gh-warning`: A GitHub flavored warning alert
+- `gh-caution`: A GitHub flavored caution alert
+- `cmt`: A comment
 - `link`: A hyperlink
 - `img`: An image
 - `code`: A code block

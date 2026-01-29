@@ -13,5 +13,35 @@
     "prefix": "code",
     "description": "A code block",
     "body": ["```${1:language}", "${2:code}", "```"]
+  },
+  "GitHub markdown info alert": {
+    "prefix": "gh-info",
+    "description": "A GitHub flavored note alert",
+    "body": ["> [!NOTE]", "> ${1:text}"]
+  },
+  "GitHub markdown tip alert": {
+    "prefix": "gh-tip",
+    "description": "A GitHub flavored tip alert",
+    "body": ["> [!TIP]", "> ${1:text}"]
+  },
+  "GitHub markdown important alert": {
+    "prefix": "gh-important",
+    "description": "A GitHub flavored important alert",
+    "body": ["> [!IMPORTANT]", "> ${1:text}"]
+  },
+  "GitHub markdown warning alert": {
+    "prefix": "gh-warning",
+    "description": "A GitHub flavored warning alert",
+    "body": ["> [!WARNING]", "> ${1:text}"]
+  },
+  "GitHub markdown caution alert": {
+    "prefix": "gh-caution",
+    "description": "A GitHub flavored caution alert",
+    "body": ["> [!CAUTION]", "> ${1:text}"]
+  },
+  "Markdown Comment": {
+    "prefix": "cmt",
+    "description": "A comment",
+    "body": ["<!-- ${1:text} -->"]
   }
 }
