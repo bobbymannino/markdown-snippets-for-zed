@@ -43,5 +43,80 @@
     "prefix": "cmt",
     "description": "A comment",
     "body": ["<!-- ${1:text} -->"]
-  }
+  },
+  "Markdown CSS code block": {
+    "prefix": "code-css",
+    "description": "A CSS code block",
+    "body": ["```css", "${1:/* code */}", "```", "", "$2"]
+  },
+  "Markdown TypeScript code block": {
+    "prefix": "code-ts",
+    "description": "A TypeScript code block",
+    "body": ["```ts", "${1:// code}", "```", "", "$2"]
+  },
+  "Markdown JavaScript code block": {
+    "prefix": "code-js",
+    "description": "A JavaScript code block",
+    "body": ["```js", "${1:// code}", "```", "", "$2"]
+  },
+  "Markdown JSX code block": {
+    "prefix": "code-jsx",
+    "description": "A JSX code block",
+    "body": ["```jsx", "${1:// code}", "```", "", "$2"]
+  },
+  "Markdown TSX code block": {
+    "prefix": "code-tsx",
+    "description": "A TSX code block",
+    "body": ["```tsx", "${1:// code}", "```", "", "$2"]
+  },
+  "Markdown Bash code block": {
+    "prefix": "code-bash",
+    "description": "A Bash code block",
+    "body": ["```bash", "${1:# code}", "```", "", "$2"]
+  },
+  "Markdown YAML code block": {
+    "prefix": "code-yaml",
+    "description": "A YAML code block",
+    "body": ["```yaml", "${1:# code}", "```", "", "$2"]
+  },
+  "Markdown SQL code block": {
+    "prefix": "code-sql",
+    "description": "A SQL code block",
+    "body": ["```sql", "${1:-- code}", "```", "", "$2"]
+  },
+  "Markdown JSON code block": {
+    "prefix": "code-json",
+    "description": "A JSON code block",
+    "body": ["```json", "$0", "```", "", "$2"]
+  },
+  "Markdown HTML code block": {
+    "prefix": "code-html",
+    "description": "An HTML code block",
+    "body": ["```html", "${1:<!-- code -->}", "```", "", "$2"]
+  },
+  "Markdown Markdown code block": {
+    "prefix": "code-md",
+    "description": "A Markdown code block",
+    "body": ["```md", "${1:<!-- code -->}", "```", "", "$2"]
+  },
+  "Markdown Python code block": {
+    "prefix": "code-py",
+    "description": "A Python code block",
+    "body": ["```py", "${1:# code}", "```", "", "$2"]
+  },
+  "Markdown Rust code block": {
+    "prefix": "code-rs",
+    "description": "A Rust code block",
+    "body": ["```rs", "${1:// code}", "```", "", "$2"]
+  },
+  "Markdown Go code block": {
+    "prefix": "code-go",
+    "description": "A Go code block",
+    "body": ["```go", "${1:// code}", "```", "$2"]
+  },
+  "Markdown TOML code block": {
+    "prefix": "code-toml",
+    "description": "A TOML code block",
+    "body": ["```toml", "${1:# code}", "```", "", "$2"]
+  },
 }
