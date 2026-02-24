@@ -119,4 +119,59 @@
     "description": "A TOML code block",
     "body": ["```toml", "${1:# code}", "```", "", "$2"]
   },
+  "Markdown horizontal rule": {
+    "prefix": "hr",
+    "description": "A horizontal rule",
+    "body": ["---", "", "$1"]
+  },
+  "Markdown inline code": {
+    "prefix": "icode",
+    "description": "An inline code block",
+    "body": ["`${1:code}`"]
+  },
+  "Markdown bold": {
+    "prefix": "b",
+    "description": "Bold text",
+    "body": ["**${1:bold}**"]
+  },
+  "Markdown italic": {
+    "prefix": "i",
+    "description": "Italic text",
+    "body": ["_${1:italic}_"]
+  },
+  "Markdown strikethrough": {
+    "prefix": "s",
+    "description": "Strikethrough text",
+    "body": ["~~${1:strike}~~"]
+  },
+  "Markdown h1": {
+    "prefix": "h1",
+    "description": "Heading 1",
+    "body": ["# ${1:heading}", "", "$2"]
+  },
+  "Markdown h2": {
+    "prefix": "h2",
+    "description": "Heading 2",
+    "body": ["## ${1:heading}", "", "$2"]
+  },
+  "Markdown h3": {
+    "prefix": "h3",
+    "description": "Heading 3",
+    "body": ["### ${1:heading}", "", "$2"]
+  },
+  "Markdown h4": {
+    "prefix": "h4",
+    "description": "Heading 4",
+    "body": ["#### ${1:heading}", "", "$2"]
+  },
+  "Markdown h5": {
+    "prefix": "h5",
+    "description": "Heading 5",
+    "body": ["##### ${1:heading}", "", "$2"]
+  },
+  "Markdown h6": {
+    "prefix": "h6",
+    "description": "Heading 6",
+    "body": ["###### ${1:heading}", "", "$2"]
+  },
 }

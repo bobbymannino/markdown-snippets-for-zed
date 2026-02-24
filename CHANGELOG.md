@@ -1,5 +1,21 @@
 # Changelog
 
+## v0.0.4
+
+### New Snippets
+
+- `hr`: A horizontal rule
+- `icode`: An inline code block
+- `b`: Bold text
+- `i`: Italic text
+- `s`: Strikethrough text
+- `h1`: Heading 1
+- `h2`: Heading 2
+- `h3`: Heading 3
+- `h4`: Heading 4
+- `h5`: Heading 5
+- `h6`: Heading 6
+
 ## v0.0.3
 
 ### New Snippets

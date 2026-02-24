@@ -43,3 +43,14 @@ page](https://zed.dev/extensions/markdown-snippets) or by following these steps:
 - `code-rs`: A Rust code block
 - `code-go`: A Go code block
 - `code-toml`: A TOML code block
+- `hr`: A horizontal rule
+- `icode`: An inline code block
+- `b`: Bold text
+- `i`: Italic text
+- `s`: Strikethrough text
+- `h1`: Heading 1
+- `h2`: Heading 2
+- `h3`: Heading 3
+- `h4`: Heading 4
+- `h5`: Heading 5
+- `h6`: Heading 6
