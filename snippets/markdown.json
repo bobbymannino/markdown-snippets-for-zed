@@ -12,7 +12,7 @@
   "Markdown code block": {
     "prefix": "code",
     "description": "A code block",
-    "body": ["```${1:language}", "${2:code}", "```"]
+    "body": ["```${1:language}", "${2:code}", "```", "", "$3"]
   },
   "GitHub markdown info alert": {
     "prefix": "gh-info",
@@ -42,7 +42,7 @@
   "Markdown Comment": {
     "prefix": "cmt",
     "description": "A comment",
-    "body": ["<!-- ${1:text} -->"]
+    "body": ["<!-- ${1:text} -->", "", "$2"]
   },
   "Markdown CSS code block": {
     "prefix": "code-css",
@@ -173,5 +173,5 @@
     "prefix": "h6",
     "description": "Heading 6",
     "body": ["###### ${1:heading}", "", "$2"]
-  },
+  }
 }

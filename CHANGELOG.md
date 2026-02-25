@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.0.5
+
+### Changes
+
+- add new line as 3rd cursor in `code` and `cmt`
+
 ## v0.0.4
 
 ### New Snippets
