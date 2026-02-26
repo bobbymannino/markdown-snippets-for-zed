@@ -27,6 +27,17 @@ page](https://zed.dev/extensions/markdown-snippets) or by following these steps:
 - `cmt`: A comment
 - `link`: A hyperlink
 - `img`: An image
+- `img-html`: An HTML image tag
+- `img-w-200`: An HTML image with width 200px
+- `img-w-400`: An HTML image with width 400px
+- `img-w-600`: An HTML image with width 600px
+- `img-w-800`: An HTML image with width 800px
+- `img-w-1000`: An HTML image with width 1000px
+- `img-h-200`: An HTML image with height 200px
+- `img-h-400`: An HTML image with height 400px
+- `img-h-600`: An HTML image with height 600px
+- `img-h-800`: An HTML image with height 800px
+- `img-h-1000`: An HTML image with height 1000px
 - `code`: A code block
 - `code-css`: A CSS code block
 - `code-ts`: A TypeScript code block

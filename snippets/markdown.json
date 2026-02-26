@@ -9,6 +9,61 @@
     "description": "An image",
     "body": ["![${1:alt}](${2:src})"]
   },
+  "HTML image": {
+    "prefix": "img-html",
+    "description": "An HTML image tag",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" />"]
+  },
+  "HTML image with width 200": {
+    "prefix": "img-w-200",
+    "description": "An HTML image with width 200px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" width=\"200\" />"]
+  },
+  "HTML image with width 400": {
+    "prefix": "img-w-400",
+    "description": "An HTML image with width 400px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" width=\"400\" />"]
+  },
+  "HTML image with width 600": {
+    "prefix": "img-w-600",
+    "description": "An HTML image with width 600px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" width=\"600\" />"]
+  },
+  "HTML image with width 800": {
+    "prefix": "img-w-800",
+    "description": "An HTML image with width 800px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" width=\"800\" />"]
+  },
+  "HTML image with width 1000": {
+    "prefix": "img-w-1000",
+    "description": "An HTML image with width 1000px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" width=\"1000\" />"]
+  },
+  "HTML image with height 200": {
+    "prefix": "img-h-200",
+    "description": "An HTML image with height 200px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" height=\"200\" />"]
+  },
+  "HTML image with height 400": {
+    "prefix": "img-h-400",
+    "description": "An HTML image with height 400px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" height=\"400\" />"]
+  },
+  "HTML image with height 600": {
+    "prefix": "img-h-600",
+    "description": "An HTML image with height 600px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" height=\"600\" />"]
+  },
+  "HTML image with height 800": {
+    "prefix": "img-h-800",
+    "description": "An HTML image with height 800px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" height=\"800\" />"]
+  },
+  "HTML image with height 1000": {
+    "prefix": "img-h-800",
+    "description": "An HTML image with height 1000px",
+    "body": ["<img src=\"${1:src}\" alt=\"${2:alt}\" height=\"1000\" />"]
+  },
   "Markdown code block": {
     "prefix": "code",
     "description": "A code block",
