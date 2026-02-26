@@ -65,3 +65,12 @@ page](https://zed.dev/extensions/markdown-snippets) or by following these steps:
 - `h4`: Heading 4
 - `h5`: Heading 5
 - `h6`: Heading 6
+- `table-1x1`: A 1 row, 1 column table
+- `table-1x2`: A 1 row, 2 column table
+- `table-1x3`: A 1 row, 3 column table
+- `table-2x1`: A 2 row, 1 column table
+- `table-2x2`: A 2 row, 2 column table
+- `table-2x3`: A 2 row, 3 column table
+- `table-3x1`: A 3 row, 1 column table
+- `table-3x2`: A 3 row, 2 column table
+- `table-3x3`: A 3 row, 3 column table
