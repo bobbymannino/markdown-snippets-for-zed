@@ -19,6 +19,8 @@ page](https://zed.dev/extensions/markdown-snippets) or by following these steps:
 
 ### Markdown
 
+- `fn`: A footnote reference
+- `fnd`: A footnote definition
 - `cb`: A checkbox
 - `ccb`: A checked checkbox
 - `gh-info`: A GitHub flavored note alert

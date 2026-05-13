@@ -4,6 +4,8 @@
 
 ### New Snippets
 
+- `fn`: A footnote reference
+- `fnd`: A footnote definition
 - `cb`: A checkbox
 - `ccb`: A checked checkbox
 

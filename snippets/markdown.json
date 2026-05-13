@@ -328,5 +328,15 @@
     "prefix": "ccb",
     "description": "A checked checkbox",
     "body": ["- [x] ${1:text}"]
+  },
+  "Markdown footnote reference": {
+    "prefix": "fn",
+    "description": "A footnote reference",
+    "body": ["[^${1:1}]"]
+  },
+  "Markdown footnote definition": {
+    "prefix": "fnd",
+    "description": "A footnote definition",
+    "body": ["[^${1:1}]: ${2:text}"]
   }
 }
