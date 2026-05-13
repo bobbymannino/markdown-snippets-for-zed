@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.0.8
+
+### New Snippets
+
+- `cb`: A checkbox
+- `ccb`: A checked checkbox
+
 ## v0.0.7
 
 ### New Snippets

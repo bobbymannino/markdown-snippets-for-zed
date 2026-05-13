@@ -19,6 +19,8 @@ page](https://zed.dev/extensions/markdown-snippets) or by following these steps:
 
 ### Markdown
 
+- `cb`: A checkbox
+- `ccb`: A checked checkbox
 - `gh-info`: A GitHub flavored note alert
 - `gh-tip`: A GitHub flavored tip alert
 - `gh-important`: A GitHub flavored important alert
